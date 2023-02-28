@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "78307650012",
+    "project_id": "foto-21f47",
+    "storage_bucket": "foto-21f47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78307650012:android:84a8ad461136d438bf8719",
+        "android_client_info": {
+          "package_name": "com.example.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78307650012-vc3ip7urcug84vvshc238fcp4o54uad7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDADquaM3Zt_bS3sx5ea_cAAqEYjrvChYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "78307650012-vc3ip7urcug84vvshc238fcp4o54uad7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
